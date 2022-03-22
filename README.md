@@ -1,5 +1,4 @@
-# Data Analytics_Portfolio
-파이썬, SQL, Tableau,etc...
+* 공모전, 개인 프로젝트 및 사전과제에서 한 작업물입니다. 
 
 1. 비트코인 시세 예측하기 Predicting Bitcoin Prices (2021/12/26)
 2. 영화 리뷰 감성분석 Movie Review Sentiment Analysis (2022/01/12)
