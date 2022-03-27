@@ -12,3 +12,5 @@
 10. 펭권 몸무게 예측 경진대회 Penguin Weight Prediction (2022/01/01) 
 11. 대학교 전공 분석 College Major Analysis (2021/11/28) 
 12. 네덜란드 임대주택 기관의 집 수리 유청 처리 프로세스 Netherlands Rental Housing of Home Repair Processing Process (2022.02.12) 
+13. 2022 베이징 올림픽 메달 랭크 (크롤링) 2022 Beijing Olympic Medal Rank (2022/03/24)
+14. 지하철 승하차 인원 분석 프로젝트 Subway Get_on & Get_off Passenger Project (2022/03/27
