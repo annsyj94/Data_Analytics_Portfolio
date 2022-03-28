@@ -36,7 +36,7 @@
 
 
 10. **펭권 몸무게 예측 경진대회 Penguin Weight Prediction (2022/01/01)** 
-    - 펭권 Adelle, Chinstrop 및 Gentoo 펭권의 몸무게 예측하기 
+    - Adelle, Chinstrop 및 Gentoo 펭권의 몸무게 예측하기 
 
 11. **대학교 전공 분석 College Major Analysis (2021/11/28)**
     - GeorgeTown 대학에 인기있는 전공찾기 
