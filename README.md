@@ -25,7 +25,7 @@
 12. 네덜란드 임대주택 기관의 집 수리 유청 처리 프로세스 Netherlands Rental Housing of Home Repair Processing Process (2022.02.12) 
 
 13. 2022 베이징 올림픽 메달 랭크 (크롤링) 2022 Beijing Olympic Medal Rank (2022/03/24)
-    - 크롤링(Crawling)을 사용하여 2022년 메달 많이 받은 Top 10 국가들 알아보기 
+    - 크롤링(Crawling)을 사용하여 2022년 메달 많이 받은 Top 10 국가 알아보기 
 
 15. 지하철 승하차 인원 분석 프로젝트 Subway Get_on & Get_off Passenger Project (2022/03/27)
     - 지하철 역 윛 좌표 데이트를 활용해 특성 호선에서 어떤 역이 가장 혼잡한지 지관적으로 확인 하는 프로젝트 
