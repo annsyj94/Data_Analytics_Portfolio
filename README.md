@@ -5,26 +5,26 @@
 
 
 2. **영화 리뷰 감성분석 Movie Review Sentiment Analysis (2022/01/12)**
-   - 머신러닝으로 네이버 영화에 사용자들이 남긴 리뷰 분석하기 
+   - 머신러닝(Okt, TfidfVectorizer, SGDClassifier)를 사용하여 네이버 영화에 사용자들이 남긴 리뷰 분석하기 
 
 
 3. **유튜브 트렌드 분석 YouTube Trend Analysis (2021/07/26)**
-   - YouTube API를 사용하여 2021년 동영상 트렌드 알아보기 
+   - PCA를 사용하여 2021년 YouTube 동영상 트렌드 알아보기 
 
 4. **약물 분류  Drug Classification (2021/08/16)**
-   - 환자에게 정확할 수있는 약물의 결과를 예측하기 위해 머신러닝 활용 
+   - 환자에게 정확할 수있는 약물의 결과를 예측하기 위해 머신러닝 (StandardScaler, LogisticRegression, DecisionTreeClassifier) 활용 
 
 
 5. **집값 예측 대회 House Price Prediction (2022/01/27)** 
-   - 머신러닝으로 집값 예측 알아보기 
+   - 머신러닝 (LinearRegression) 으로 집값 예측 알아보기 
 
 
 6. **기계 유지 관리 분류 Machine Maintenance Classification (2021/11/09)**
-   - 머신러닝으로 기계 유지 관리 분류하기 
+   - Pycaret을 사용하여 기계 유지 관리 분류하기 
 
 
 7. **수질 모니터링 Water Quality Monitoring (2021/07/19)**
-   - 수질 관리 모니터링 
+   - 딥러닝을 사용 수질 관리 모니터링하기 
 
 
 8. **온라인 쇼핑 분석 Online Shopping Analysis (2021/11/28)** 
@@ -32,11 +32,12 @@
 
 
 9. **골목상권 시각화 Alley Way Visualization  (2020/11/13)** 
-   - 공공데이터로 골목상권 시각화와 해결방법 
+   - 공공데이터로 골목상권 데이터로 시각화 하기 
+   - 팀에서 리더 역할을 했음 
 
 
 10. **펭권 몸무게 예측 경진대회 Penguin Weight Prediction (2022/01/01)** 
-    - Adelle, Chinstrop 및 Gentoo 펭권의 몸무게 예측하기 
+    - 'HistGradientBoostingClassifier'을 사용하여 Adelle, Chinstrop 및 Gentoo 펭권의 몸무게 예측하기 
 
 11. **대학교 전공 분석 College Major Analysis (2021/11/28)**
     - GeorgeTown 대학에 인기있는 전공찾기 
