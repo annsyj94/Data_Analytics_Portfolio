@@ -24,7 +24,7 @@
 
 
 7. **수질 모니터링 Water Quality Monitoring (2021/07/19)**
-   - 딥러닝으로 사용 수질 관리 모니터링하기 
+   - 수질 관리 모니터링하기 
 
 
 8. **온라인 쇼핑 분석 Online Shopping Analysis (2021/11/28)** 
