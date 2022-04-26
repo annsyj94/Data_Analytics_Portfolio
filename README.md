@@ -25,9 +25,6 @@
 11. **대학교 전공 분석 College Major Analysis (2021/11/26 ~ 2021/11/28)**
     - GeorgeTown 대학에 인기있는 전공찾기 
 
-12. **네덜란드 임대주택 기관의 집 수리 유청 처리 프로세스 Netherlands Rental Housing of Home Repair Processing Process (2022/02/08 ~ 2022/02/12)**
-    - 네덜란드 임대주택 기관의 집 수리 유청 상태 알아보기 
-
 13. **2022 베이징 올림픽 메달 랭크 (크롤링) 2022 Beijing Olympic Medal Rank (2022/03/24 ~ 2022/03/25)**
     - 크롤링(Crawling)을 사용하여 2022년 메달 많이 받은 Top 10 국가 알아보기 
 
