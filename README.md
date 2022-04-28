@@ -39,10 +39,9 @@
     - 지하철 역 위치좌표 데이트를 활용해 특성 호선에서 어떤 역이 가장 혼잡한지 지관적으로 확인 하는 프로젝트 
 
 
-15. **원자재 가격 프로젝트 Commodity Prices Project (2022/04/02 ~ 2022/04/03)**
-    - investing.com에 있는 천연 가스의 가격 데이터를 수출해서 테이블 만들기
-    - FinanceDataReader' 금융 데이터 수집 라이브러리로 원하는 원자재 가격 가져오기
-    - 한국거래소 상장종목 전체 가져와서 csv으로 저장
+15. **Kakao 주식 알아보기 Learn more about Kakao stocks (2022/04/02 ~ 2022/04/03)**
+    - 'FinanceDataReader' 금융 데이터 수집 라이브러리로 원하는 카카오 주식 불러오기
+    -  Facebook Prophet으로 간단하게 예측모델 만들기 ( 페이스북에서 만든 시계열 예측 라이브러리)
 
 
 16. **패스트 푸드 마케팅 캠페인 A\B Test  Fast Food Marketing A\B Test (2022/04/21)**
